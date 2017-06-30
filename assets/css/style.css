@@ -2,3 +2,13 @@
 #header{
 	text-align: center;
 }
+
+body{
+	background-image: url(../images/stardust.png);
+	background-size: cover;
+
+}
+
+div.panel-heading{
+	
+}
