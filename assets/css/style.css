@@ -1,6 +1,7 @@
 
 #header{
 	text-align: center;
+
 }
 
 body{
@@ -9,6 +10,16 @@ body{
 
 }
 
-div.panel-heading{
+div.panel-default{
+	box-shadow: 0px 40px 50px #888888;
+}
+
+.jumbotron{
+	border-bottom: 10px solid #747F84;
+	padding-bottom: 0;
 	
+}
+
+#clip{
+	padding-top: 40px;
 }
